@@ -2,7 +2,7 @@
 
 **Anmol Chaudhary**
 CTO, Aonxi
-anmol@aonxi.com
+origin@aonxi.com
 
 ---
 
