@@ -446,7 +446,7 @@ The high all-correct rate reflects the relative simplicity of the benchmark prob
 
 ---
 
-*Replication code available at: github.com/anmolsam/rewardflow-replication*
+*Replication code available at: github.com/originaonxi/rewardflow-replication*
 
 *Experiment timestamp: 20260320\_175224*
 
